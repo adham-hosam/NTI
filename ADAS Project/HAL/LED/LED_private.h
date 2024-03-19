@@ -1,0 +1,14 @@
+#ifndef LED_PRIVATE_H_
+#define LED_PRIVATE_H_
+
+#define LED_BLUE_PORT	PORT_A
+#define LED_GREEN_PORT	PORT_A
+#define LED_RED_PORT	PORT_B
+#define LED_YELLOW_PORT	PORT_A
+
+#define LED_BLUE_PIN	PIN5
+#define LED_GREEN_PIN	PIN4
+#define LED_RED_PIN		PIN7
+#define LED_YELLOW_PIN	PIN6
+
+#endif /* LED_PRIVATE_H_ */
