@@ -1,0 +1,15 @@
+#ifndef PUSHBUTTON_CONFIG_H_
+#define PUSHBUTTON_CONFIG_H_
+
+
+#define BUTTON_1_PORT		PORT_D
+#define BUTTON_1_PIN		PIN7
+#define BUTTON_2_PORT		PORT_D
+#define BUTTON_2_PIN		PIN6
+#define BUTTON_3_PORT		PORT_D
+#define BUTTON_3_PIN		PIN5
+#define BUTTON_4_PORT		PORT_D
+#define BUTTON_4_PIN		PIN3
+
+
+#endif 
